@@ -1,0 +1,14 @@
+{
+  "name": "boxuegu",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D\"\u001b[讲师后台管理系统\"",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
